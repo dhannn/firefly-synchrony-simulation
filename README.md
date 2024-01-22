@@ -23,8 +23,8 @@ In our model, we will use a 2-dimensional lattice for easy visualization.
 ### States
 We base our states on the existing theory of how fireflies work. Namely, 
 we recognized the following states: `RECOVERING`, `READY` and `FLASH`. 
-The state denotes that the firefly is still recovering and cannot flash 
-at the next time step. The state means that, at any succeeding time step, 
+The `RECOVERING` state denotes that the firefly is still recovering and cannot flash 
+at the next time step. The `READY` state means that, at any succeeding time step, 
 the firefly has some chance of flashing. The `FLASH` state denotes 
 the act of flashing.
 
