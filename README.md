@@ -49,3 +49,21 @@ recovery state.
 
 ## Reference
 -  Sokol, J. (2022). How Do Fireflies Flash in Sync? Studies Suggest a New Answer. | Quanta Magazine. https://www.quantamagazine.org/how-do-fireflies-flash-in-sync-studies-suggest-a-new-answer-20220920/
+
+## Declaration of AI Use
+
+In accordance with the directives of the Provost, which encourages 
+the transparent use of AI technology to enhance projects, I hereby declare that 
+I use AI technology to augment my project. The following use cases illustrate 
+my application of AI:
+
+1. Simple queries on implementing the model I devised
+1. Simple generation of documentation for the source code
+
+For transparency, the following link shows the scope of AI use: 
+https://chat.openai.com/share/1ec95e97-49cb-4338-b7b4-239876963d2b
+
+I guarantee that all aspects of the project beyond the aforementioned scope 
+are entirely original and free from external influence.
+
+
