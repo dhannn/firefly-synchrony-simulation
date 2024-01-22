@@ -1,0 +1,4 @@
+recycle_bin/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
